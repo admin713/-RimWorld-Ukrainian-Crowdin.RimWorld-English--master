@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate meat -->
+  <AteMeat.label>з'їв м'ясо</AteMeat.label>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat.label>{PAWN_gender ? з'їв : з'їла} вегетаріанську страву</AteNonMeat.label>
+  
+</LanguageData>

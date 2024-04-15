@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fine granite tile -->
+  <FineTileGranite.label>гарна гранітна плитка</FineTileGranite.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileGranite.description>Вишукана кам'яна плитка, виготовлена ​​без компромісів, для вираження економічного статусу. Повільно будується.</FineTileGranite.description>
+  
+  <!-- EN: fine limestone tile -->
+  <FineTileLimestone.label>гарна вапнякова плитка</FineTileLimestone.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileLimestone.description>Вишукана кам'яна плитка, виготовлена ​​без компромісів, для вираження економічного статусу. Повільно будується.</FineTileLimestone.description>
+  
+  <!-- EN: fine marble tile -->
+  <FineTileMarble.label>гарна мармурова плитка</FineTileMarble.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileMarble.description>Вишукана кам'яна плитка, виготовлена ​​без компромісів, для вираження економічного статусу. Повільно будується.</FineTileMarble.description>
+  
+  <!-- EN: fine sandstone tile -->
+  <FineTileSandstone.label>гарна плитка з пісковика</FineTileSandstone.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileSandstone.description>Вишукана кам'яна плитка, виготовлена ​​без компромісів, для вираження економічного статусу. Повільно будується.</FineTileSandstone.description>
+  
+  <!-- EN: fine slate tile -->
+  <FineTileSlate.label>гарна сланцева плитка</FineTileSlate.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileSlate.description>Вишукана кам'яна плитка, виготовлена ​​без компромісів, для вираження економічного статусу. Повільно будується.</FineTileSlate.description>
+  
+</LanguageData>

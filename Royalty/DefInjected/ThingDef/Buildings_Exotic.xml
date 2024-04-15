@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burnout low-shield -->
+  <BroadshieldProjector.label>переносний щит</BroadshieldProjector.label>
+  <!-- EN: A man-portable low-angle shield projector. Bullets can go out, but not in. Its compact power source burns out after a few seconds of use. -->
+  <BroadshieldProjector.description>Портативний низькокутовий екранований проектор. Кулі можуть вилітати, але не всередину. Його компактне джерело живлення перегорає через кілька секунд використання.</BroadshieldProjector.description>
+  <!-- EN: Burnout in -->
+  <BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>Перегорання</BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>
+  
+</LanguageData>

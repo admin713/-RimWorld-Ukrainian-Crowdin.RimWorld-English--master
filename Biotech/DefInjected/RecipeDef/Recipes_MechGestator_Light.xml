@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate agrihand -->
+  <Agrihand.label>формування землероба</Agrihand.label>
+  <!-- EN: Gestate an agrihand mechanoid. -->
+  <Agrihand.description>Сформуйте механоїда землероба.</Agrihand.description>
+  <!-- EN: Gestating mech. -->
+  <Agrihand.jobString>Формування механоїда.</Agrihand.jobString>
+  
+  <!-- EN: gestate cleansweeper -->
+  <Cleansweeper.label>формування прибиральника</Cleansweeper.label>
+  <!-- EN: Gestate a cleansweeper mechanoid. -->
+  <Cleansweeper.description>Сформуйте механоїда прибиральника.</Cleansweeper.description>
+  <!-- EN: Gestating mech. -->
+  <Cleansweeper.jobString>Формування механоїда.</Cleansweeper.jobString>
+  
+  <!-- EN: gestate constructoid -->
+  <Constructoid.label>формування конструктоїда</Constructoid.label>
+  <!-- EN: Gestate a constructoid mechanoid. -->
+  <Constructoid.description>Сформуйте механоїда конструктоїда.</Constructoid.description>
+  <!-- EN: Gestating mech. -->
+  <Constructoid.jobString>Формування механоїда.</Constructoid.jobString>
+  
+  <!-- EN: gestate fabricor -->
+  <Fabricor.label>формування виробника</Fabricor.label>
+  <!-- EN: Gestate a fabricor mechanoid. -->
+  <Fabricor.description>Сформуйте механоїда виробника.</Fabricor.description>
+  <!-- EN: Gestating mech. -->
+  <Fabricor.jobString>Формування механоїда.</Fabricor.jobString>
+  
+  <!-- EN: gestate lifter -->
+  <Lifter.label>формування вантажника</Lifter.label>
+  <!-- EN: Gestate a lifter mechanoid. -->
+  <Lifter.description>Сформуйте механоїда вантажника.</Lifter.description>
+  <!-- EN: Gestating mech. -->
+  <Lifter.jobString>Формування механоїда.</Lifter.jobString>
+  
+  <!-- EN: gestate militor -->
+  <Militor.label>формування солдата</Militor.label>
+  <!-- EN: Gestate a militor mechanoid. -->
+  <Militor.description>Сформуйте механоїда солдата.</Militor.description>
+  <!-- EN: Gestating mech. -->
+  <Militor.jobString>Формування механоїда.</Militor.jobString>
+  
+  <!-- EN: gestate paramedic -->
+  <Paramedic.label>формування фельдшера</Paramedic.label>
+  <!-- EN: Gestate a paramedic mechanoid. -->
+  <Paramedic.description>Сформуйте механоїда фельдшера.</Paramedic.description>
+  <!-- EN: Gestating mech. -->
+  <Paramedic.jobString>Формування механоїда.</Paramedic.jobString>
+  
+</LanguageData>

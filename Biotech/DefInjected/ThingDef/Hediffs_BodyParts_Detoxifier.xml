@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: detoxifier kidney -->
+  <DetoxifierKidney.label>детоксикуюча нирка</DetoxifierKidney.label>
+  <!-- EN: An advanced artificial kidney. Using a series of nanofilters, it can rapidly remove a vast range of toxins from the blood, making it effective against environmental toxins, venoms, and injected poisons. -->
+  <DetoxifierKidney.description>Вдосконалена штучна нирка. Цей орган використовує набір нанофільтрів, за допомогою яких швидко виводить токсини із крові, що робить його ефективним проти токсинів із навколишнього середовища та отрут.</DetoxifierKidney.description>
+  
+  <!-- EN: detoxifier lung -->
+  <DetoxifierLung.label>детоксикуюча легеня</DetoxifierLung.label>
+  <!-- EN: An advanced artificial lung that uses microfilters to reduce the intake of environmental toxins, allowing the user to survive longer in polluted environments. Additionally, it negates the irritation of acidic smog and prevents lung rot in this lung. -->
+  <DetoxifierLung.description>Удосконалені штучні легені, які використовують мікрофільтри для зменшення надходження токсинів з навколишнього середовища, що дозволяє користувачеві довше виживати в забрудненому середовищі. Крім того, він усуває подразнення кислотного смогу та запобігає легеневої гнилі у цих легенях.</DetoxifierLung.description>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: playing with TargetA. -->
+  <PlayStatic.reportString>грається з TargetA.</PlayStatic.reportString>
+  
+  <!-- EN: playing with TargetA. -->
+  <PlayToys.reportString>грається з TargetA.</PlayToys.reportString>
+  
+  <!-- EN: playing with TargetA. -->
+  <PlayWalking.reportString>грається з TargetA.</PlayWalking.reportString>
+  
+</LanguageData>

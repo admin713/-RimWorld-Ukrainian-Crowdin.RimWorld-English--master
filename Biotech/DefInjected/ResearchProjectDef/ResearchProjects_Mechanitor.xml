@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic mechtech -->
+  <BasicMechtech.label>базові мехтехнології</BasicMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
+  <BasicMechtech.description>Технологія, необхідна вашому механітору для створення та керування механоїдами базового рівня.</BasicMechtech.description>
+  
+  <!-- EN: high mechtech -->
+  <HighMechtech.label>високі мехтехнології</HighMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
+  <HighMechtech.description>Технологія, необхідна вашому механітору для створення високорівневих механоїдів і керування ними.\n\nВи можете отримати чіпи фокусування енергії, використовуючи механітора для виклику королеви війни.</HighMechtech.description>
+  
+  <!-- EN: standard mechtech -->
+  <StandardMechtech.label>стандартні мехтехнології</StandardMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
+  <StandardMechtech.description>Технологія, необхідна вашому механітору для створення та керування механоїдами стандартного рівня.\n\nВи можете отримати чіпи, використовуючи механітора для виклику диявола.</StandardMechtech.description>
+  
+  <!-- EN: ultra mechtech -->
+  <UltraMechtech.label>ультра мехтехнології</UltraMechtech.label>
+  <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
+  <UltraMechtech.description>Удосконалена технологія, необхідна вашому механітору для створення та керування ультра важких механоїдів, зокрема великими механізмами та надрівневим механізмом.\n\nВи можете отримати наноструктурні мікросхеми, використовуючи механітора для виклику апокритона.</UltraMechtech.description>
+  
+  <!-- EN: wastepack atomizer -->
+  <WastepackAtomizer.label>розпилювач відходів</WastepackAtomizer.label>
+  <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
+  <WastepackAtomizer.description>Створюйте розпилювачі відходів, які можуть безпечно утилізувати токсичні відходи, розкладаючи їх на молекулярному рівні.</WastepackAtomizer.description>
+  
+</LanguageData>
